@@ -1,2 +1,3 @@
 # DIO-exerciciode-htmlecss
-repositório criado para colocar o exercício da aula de html e css da Dio
+Repositório criado para colocar o exercício da aula de html/s do Bootcamp da TQI na plataforma da DIO.
+
